@@ -1,1 +1,1 @@
-# 2pcsen1red
+### Programa para probar comunicar 2 pcs usando lenguaje c en linux
